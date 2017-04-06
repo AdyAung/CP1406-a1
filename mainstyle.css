@@ -1,0 +1,303 @@
+@charset "UTF-8";
+body { margin-top: 20px;
+		margin-left: 70px;
+		margin-right: 70px;
+		margin-bottom: 0px;
+		padding: 10px;
+		background-color: lightslategrey;
+		background-image: url(beach.jpg);
+		background-size: 100% ;
+		background-blend-mode: soft-light;
+}
+
+
+
+
+caption { font-size: x-large;
+			color: black;
+			
+}
+
+h2 { font-style: italic;
+	color: black;
+	font-size: xx-large;
+}
+
+
+p { color:black;
+	
+}
+
+#main_section_home ul{ text-align: center;
+	
+}
+
+#main_section_home li { padding-top: 20px;
+						padding-bottom: 20px;}
+
+#main_section_home a { font-size: xx-large;
+						color: black;
+						text-decoration: none;
+						
+}
+
+#main_section_home a:hover { color: lightskyblue;
+							text-decoration: none;
+
+}
+
+
+#main_section_home li { list-style: none;
+
+}
+	
+	
+#header { font-style: oblique;
+		text-align: center;
+		color: black;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		font-size: x-large;
+		
+}
+
+
+#header h1 { margin-bottom: 60px;
+
+}
+
+#tag { text-align: center;
+
+}
+
+#tag ul { margin-left: 13px;
+		
+		padding-left: 10px;
+}
+
+
+#tag ul li { list-style: none;
+			display: inline;
+			text-align: left;
+			
+}
+
+#tag ul li a { margin: 0px;
+				border: 2px solid white;
+				color: black;
+				background-color: steelblue;
+				text-decoration: none;
+				font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+
+
+#tag ul li a:hover { color: white;
+					text-decoration: underline;
+}
+
+
+
+#container { background-color: lightskyblue;
+			font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+			border: 2px solid lightskyblue;
+			
+			margin-bottom: 0px;
+			
+			background-image: url(volleyball.jpg);
+			
+			
+}
+
+
+#main_section_aboutus { text-align: center;
+					
+}
+
+
+#main_section_activity { text-align: center;
+
+}
+
+#main_section_activity p { text-align: center;
+							padding-left: 50px;
+							padding-right: 50px;
+
+}
+
+#main_section_signup h2 { font-style: normal;
+					text-align: center;
+					margin-left: 25px;
+					margin-top: 10px;
+					border-top: 20px;
+}
+
+#main_section_signup .form ul li { color: black;
+							 list-style: none;
+								font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+
+#main_section_signup .submit { margin-left: 10px;
+
+}
+
+#main_section_contactus { text-align: center;
+						 padding-bottom: 100px;
+
+}
+
+
+#main_section_links { text-align: center;
+
+}
+
+
+#table { padding-bottom: 30px;
+}
+
+#table .table { align-content: center;
+			border: 2px sollid white;
+}
+
+
+#form .submit:hover { color: lightskyblue;
+	
+}
+
+.form { text-align:center;
+		border-top: 10px;
+		margin-top: 30px;
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.who_can_play p { text-align: center;
+					padding-left: 50px;
+					padding-right: 50px;
+}
+
+.our_website p { text-align: center;
+					padding-left: 50px;
+					padding-right: 50px;
+
+}
+
+
+.agreement h3{	text-align: center;
+				
+				color: black;
+				font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+
+.agreement ul li { color: aliceblue;
+					list-style: none;
+}
+
+
+
+.guide p { margin-left: 13px;
+	
+}
+
+.our_website { padding-top: 10px;
+				clear: right;
+}
+
+.contact_us { list-style: none;
+				color:black;
+}
+
+
+.contact { margin-left: 13px;
+	
+}
+
+
+
+.links { margin-left: 20px;
+		
+		
+}
+
+.worldwide { color: black;
+			margin-left: 20px;
+			font-size: x-large;
+}
+
+.volley { color: black;
+			
+}
+
+.volley li { list-style: none;
+
+}
+
+.volley a { text-decoration: none;}
+
+
+.professionals { color:black;
+				margin-left: 20px;
+				font-size: x-large;
+}
+
+.organisation { color: black;
+	
+}
+
+
+
+.volley a { color: black;
+	
+}
+
+.volley a:hover { color: white;
+	
+}
+
+.organisation a { color: black;
+				text-decoration: none;
+	
+}
+
+.organisation a:hover { color: white;
+	
+}
+
+.organisation li {list-style: none;
+
+}
+
+.guide { text-align: center;
+		margin-left: 80px;
+		margin-right: 80px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		
+}
+
+
+.table td { color: black;
+	
+}
+
+.table th { color: black;
+
+}
+
+.announcement { padding-bottom: 20px;
+
+}
+
+.reproduce { color: black;
+
+}
+
+.reproduce li { list-style: none;}
+
+.reproduce_from { color: black;
+				text-decoration: none;
+				
+				}
+
+
+
